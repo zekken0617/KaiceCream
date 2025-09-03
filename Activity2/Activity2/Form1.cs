@@ -1,0 +1,164 @@
+namespace Activity2
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void panel3_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            itemnametb.Enabled = false;
+            pricetb.Enabled = false;
+            discountedtb.Enabled = false;
+            qty_totaltb.Enabled = false;
+            discount_totaltb.Enabled = false;
+            discounted_totaltb.Enabled = false;
+            changetb.Enabled = false;
+
+
+
+        }
+
+        private void richTextBox2_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void itemnametb_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            itemnametb.Text = "Oreo Oreo";
+            pricetb.Text = "100";
+        }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+            itemnametb.Text = "Cookie Monster";
+            pricetb.Text = "115";
+        }
+
+        private void pictureBox3_Click(object sender, EventArgs e)
+        {
+            itemnametb.Text = "Reese's and Bananas";
+            pricetb.Text = "120";
+        }
+
+        private void pictureBox4_Click(object sender, EventArgs e)
+        {
+            itemnametb.Text = "Strawberry Cheesecake";
+            pricetb.Text = "110";
+        }
+
+        private void pictureBox5_Click(object sender, EventArgs e)
+        {
+            itemnametb.Text = "Hella Chocolate";
+            pricetb.Text = "100";
+        }
+
+        private void pictureBox10_Click(object sender, EventArgs e)
+        {
+            itemnametb.Text = "Matcha Berry";
+            pricetb.Text = "110";
+        }
+
+        private void pictureBox9_Click(object sender, EventArgs e)
+        {
+            itemnametb.Text = "Rasberry Berry";
+            pricetb.Text = "120";
+        }
+
+        private void pictureBox8_Click(object sender, EventArgs e)
+        {
+            itemnametb.Text = "Birthday Cake";
+            pricetb.Text = "110";
+        }
+
+        private void pictureBox7_Click(object sender, EventArgs e)
+        {
+            itemnametb.Text = "Taro Berry";
+            pricetb.Text = "110";
+        }
+
+        private void pictureBox6_Click(object sender, EventArgs e)
+        {
+            itemnametb.Text = "Caramel Caramel";
+            pricetb.Text = "105";
+        }
+
+        private void pictureBox15_Click(object sender, EventArgs e)
+        {
+            itemnametb.Text = "S'mores and Bears";
+            pricetb.Text = "110";
+        }
+
+        private void pictureBox14_Click(object sender, EventArgs e)
+        {
+            itemnametb.Text = "Mangonada";
+            pricetb.Text = "120";
+        }
+
+        private void pictureBox13_Click(object sender, EventArgs e)
+        {
+            itemnametb.Text = "Blended Berry";
+            pricetb.Text = "125";
+        }
+
+        private void pictureBox12_Click(object sender, EventArgs e)
+        {
+            itemnametb.Text = "Pina Colada";
+            pricetb.Text = "110";
+        }
+
+        private void pictureBox11_Click(object sender, EventArgs e)
+        {
+            itemnametb.Text = "Strawberry Smashed";
+            pricetb.Text = "120";
+        }
+
+        private void pictureBox20_Click(object sender, EventArgs e)
+        {
+            itemnametb.Text = "Cinnamon Toast Crunch";
+            pricetb.Text = "115";
+        }
+
+        private void pictureBox19_Click(object sender, EventArgs e)
+        {
+            itemnametb.Text = "Lucky Charms";
+            pricetb.Text = "110";
+        }
+
+        private void pictureBox18_Click(object sender, EventArgs e)
+        {
+            itemnametb.Text = "Fruity Pebbles";
+            pricetb.Text = "105";
+        }
+
+        private void pictureBox17_Click(object sender, EventArgs e)
+        {
+            itemnametb.Text = "Brownie Smashed";
+            pricetb.Text = "115";
+        }
+
+        private void pictureBox16_Click(object sender, EventArgs e)
+        {
+            itemnametb.Text = "Nutella and Bananas";
+            pricetb.Text = "120";
+        }
+    }
+}

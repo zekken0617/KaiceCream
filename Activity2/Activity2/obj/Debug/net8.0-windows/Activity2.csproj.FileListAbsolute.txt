@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\icecream\Activity2\Activity2\bin\Debug\net8.0-windows\Activity2.exe
+C:\Users\User\Desktop\icecream\Activity2\Activity2\bin\Debug\net8.0-windows\Activity2.deps.json
+C:\Users\User\Desktop\icecream\Activity2\Activity2\bin\Debug\net8.0-windows\Activity2.runtimeconfig.json
+C:\Users\User\Desktop\icecream\Activity2\Activity2\bin\Debug\net8.0-windows\Activity2.dll
+C:\Users\User\Desktop\icecream\Activity2\Activity2\bin\Debug\net8.0-windows\Activity2.pdb
+C:\Users\User\Desktop\icecream\Activity2\Activity2\obj\Debug\net8.0-windows\Activity2.Form1.resources
+C:\Users\User\Desktop\icecream\Activity2\Activity2\obj\Debug\net8.0-windows\Activity2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\icecream\Activity2\Activity2\obj\Debug\net8.0-windows\Activity2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\icecream\Activity2\Activity2\obj\Debug\net8.0-windows\Activity2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\icecream\Activity2\Activity2\obj\Debug\net8.0-windows\Activity2.AssemblyInfo.cs
+C:\Users\User\Desktop\icecream\Activity2\Activity2\obj\Debug\net8.0-windows\Activity2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\icecream\Activity2\Activity2\obj\Debug\net8.0-windows\Activity2.dll
+C:\Users\User\Desktop\icecream\Activity2\Activity2\obj\Debug\net8.0-windows\refint\Activity2.dll
+C:\Users\User\Desktop\icecream\Activity2\Activity2\obj\Debug\net8.0-windows\Activity2.pdb
+C:\Users\User\Desktop\icecream\Activity2\Activity2\obj\Debug\net8.0-windows\Activity2.genruntimeconfig.cache
+C:\Users\User\Desktop\icecream\Activity2\Activity2\obj\Debug\net8.0-windows\ref\Activity2.dll
+C:\Users\User\Desktop\icecream\Activity2\Activity2\obj\Debug\net8.0-windows\Activity2.Properties.Resources.resources
