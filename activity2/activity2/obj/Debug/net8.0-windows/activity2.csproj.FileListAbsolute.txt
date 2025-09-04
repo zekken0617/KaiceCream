@@ -1,0 +1,16 @@
+C:\Users\C203-10\source\repos\activity2\activity2\bin\Debug\net8.0-windows\activity2.exe
+C:\Users\C203-10\source\repos\activity2\activity2\bin\Debug\net8.0-windows\activity2.deps.json
+C:\Users\C203-10\source\repos\activity2\activity2\bin\Debug\net8.0-windows\activity2.runtimeconfig.json
+C:\Users\C203-10\source\repos\activity2\activity2\bin\Debug\net8.0-windows\activity2.dll
+C:\Users\C203-10\source\repos\activity2\activity2\bin\Debug\net8.0-windows\activity2.pdb
+C:\Users\C203-10\source\repos\activity2\activity2\obj\Debug\net8.0-windows\activity2.Form1.resources
+C:\Users\C203-10\source\repos\activity2\activity2\obj\Debug\net8.0-windows\activity2.csproj.GenerateResource.cache
+C:\Users\C203-10\source\repos\activity2\activity2\obj\Debug\net8.0-windows\activity2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C203-10\source\repos\activity2\activity2\obj\Debug\net8.0-windows\activity2.AssemblyInfoInputs.cache
+C:\Users\C203-10\source\repos\activity2\activity2\obj\Debug\net8.0-windows\activity2.AssemblyInfo.cs
+C:\Users\C203-10\source\repos\activity2\activity2\obj\Debug\net8.0-windows\activity2.csproj.CoreCompileInputs.cache
+C:\Users\C203-10\source\repos\activity2\activity2\obj\Debug\net8.0-windows\activity2.dll
+C:\Users\C203-10\source\repos\activity2\activity2\obj\Debug\net8.0-windows\refint\activity2.dll
+C:\Users\C203-10\source\repos\activity2\activity2\obj\Debug\net8.0-windows\activity2.pdb
+C:\Users\C203-10\source\repos\activity2\activity2\obj\Debug\net8.0-windows\activity2.genruntimeconfig.cache
+C:\Users\C203-10\source\repos\activity2\activity2\obj\Debug\net8.0-windows\ref\activity2.dll
